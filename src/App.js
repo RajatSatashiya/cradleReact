@@ -6,7 +6,7 @@ import Signup from "./components/Signup";
 function App() {
   return (
     <>
-      <Router basename="/cradleReact">
+      <Router>
         <Switch>
           <Route path="/" exact component={Login} />
 
