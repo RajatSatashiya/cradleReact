@@ -6,7 +6,7 @@ import Signup from "./components/Signup";
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/">
         <Switch>
           <Route path="/" exact component={Login} />
 
