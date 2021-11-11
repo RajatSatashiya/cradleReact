@@ -1,4 +1,6 @@
 import { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
+
 import "./Signup.css";
 
 function Signup() {
@@ -31,12 +33,12 @@ function Signup() {
     <>
       <div className="panel">
         <div className="btns">
-          <a href="/login">
+          <Link to="/login">
             <button className="btn">Login</button>
-          </a>
-          <a href="/signup">
+          </Link>
+          <Link to="/signup">
             <button className="btn btn-active">SignUp</button>
-          </a>
+          </Link>
         </div>
         <div className="input-panel2">
           <form className="signupform" method="GET">
