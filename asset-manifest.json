@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/cradleReact/static/css/main.b7757261.chunk.css",
-    "main.js": "/cradleReact/static/js/main.864ea776.chunk.js",
-    "main.js.map": "/cradleReact/static/js/main.864ea776.chunk.js.map",
+    "main.js": "/cradleReact/static/js/main.5872e003.chunk.js",
+    "main.js.map": "/cradleReact/static/js/main.5872e003.chunk.js.map",
     "runtime-main.js": "/cradleReact/static/js/runtime-main.ed01493c.js",
     "runtime-main.js.map": "/cradleReact/static/js/runtime-main.ed01493c.js.map",
-    "static/js/2.08234b2c.chunk.js": "/cradleReact/static/js/2.08234b2c.chunk.js",
-    "static/js/2.08234b2c.chunk.js.map": "/cradleReact/static/js/2.08234b2c.chunk.js.map",
+    "static/js/2.9ebcc6b3.chunk.js": "/cradleReact/static/js/2.9ebcc6b3.chunk.js",
+    "static/js/2.9ebcc6b3.chunk.js.map": "/cradleReact/static/js/2.9ebcc6b3.chunk.js.map",
     "index.html": "/cradleReact/index.html",
     "static/css/main.b7757261.chunk.css.map": "/cradleReact/static/css/main.b7757261.chunk.css.map",
-    "static/js/2.08234b2c.chunk.js.LICENSE.txt": "/cradleReact/static/js/2.08234b2c.chunk.js.LICENSE.txt"
+    "static/js/2.9ebcc6b3.chunk.js.LICENSE.txt": "/cradleReact/static/js/2.9ebcc6b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ed01493c.js",
-    "static/js/2.08234b2c.chunk.js",
+    "static/js/2.9ebcc6b3.chunk.js",
     "static/css/main.b7757261.chunk.css",
-    "static/js/main.864ea776.chunk.js"
+    "static/js/main.5872e003.chunk.js"
   ]
 }
